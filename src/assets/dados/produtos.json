@@ -1,0 +1,426 @@
+{
+    "path_imagens": "@/assets/dados/imagens/",
+    "poltronas": [
+        {
+            "id": "poltrona",
+            "titulo": "Poltrona",
+            "descricao": "Produto nobre com design moderno e elegante para o seu descanso e conforto.",
+            "beneficios": [
+                "Auxilia na estimulação da circulação sanguínea, prevenindo e tratando varizes, varicoses e dores nas pernas;",
+                "Auxilia no relaxamento muscular;",
+                "Auxilia no relaxamento da coluna e articulações;",
+                "Auxilia na redução do estresse."
+            ],
+            "especificacoes": [
+                "Fabricada em multilâminas;",
+                "Perfilado tratado;",
+                "Magnetos e IVL inseridos na superficie do perfilado."
+            ],
+            "medidas": [
+                "1,00 m de altura final;",
+                "0,95 m largura;",
+                "0,89 m de profundidade;",
+                "1,75 m quando articulada;",
+                "0,62 m de largura do assento;",
+                "0,54 m de profundidade do assento;",
+                "0,65 m de altura do assento;",
+                "0,91 m x 0,73 m do encosto."
+            ],
+            "observacoes": [
+                "Disponível com massagem vibroterápica, quântica e cromoterapia;",
+                "Disponível nas cores marrom e preto."
+            ],
+            "imagens": [
+                "poltrona-marrom.jpg", "poltrona-preta.jpg"
+            ]
+        }
+    ],
+    "colchoes": [
+        {
+            "id": "baby",
+            "titulo": "Colchão Baby Eko'7",
+            "descricao": "Presenteando seu bebê com a melhor sensação de aconchego. Dê valor ao que há de mais importante para o descanso do seu bebê, o sono! Nosso colchão Baby anti-refluxo é desenvolvido com magnetos e infravermelho-longo em toda a sua superfície e também conta com espumas de poliuretano tratadas, evitando infestações de ácaros, fungos e bactérias. Tudo isso para seu filho ter uma noite de sono plena e completa.",
+            "beneficios": [
+                "Auxilia na obtenção da postura correta;",
+                "Auxilia na circulação sanguínea;",
+                "Auxilia na melhora do sistema respiratório;",
+                "Auxilia no alívio das cólicas e refluxo."
+            ],
+            "especificacoes": [
+                "Altura: 12cm",
+                "Tecido: Viscose de bambu",
+                "Disponível na versão antirrefluxo",
+                "Magnetos e Infravermelho Longo",
+                "Perfilado terapêutico Soft impermeável",
+                "Certificado Médico da SBRTO (Sociedade Brasileira de Reabilitação Traumatológica e ortopédica)",
+                "Certificado Médico da ICV (Instituto da Coluna Vertebral)",
+                "Certificado pelo INMETRO",
+                "Certificado pela ISO 9001",
+                "Durabilidade média de 10 anos",
+                "Garantia de 5 anos",
+                "Não precisa virar o colchão."
+            ],
+            "observacoes": [
+                "Colchão nos padrões de medida Americano (070x130x12cm) ou Nacional (060x130x12cm)."
+            ],
+            "imagens": [
+                "baby.jpg"
+            ]
+        },
+        {
+            "id": "diamante",
+            "titulo": "Colchão Diamante Eko'7",
+            "descricao": "Toda tecnologia ortopédica combinada com um acabamento único, para lhe oferecer uma noite de sono sem comparações. Conheça o colchão que o mundo sonhava, conheça o Diamante Eko’7 e surpreenda-se.",
+            "beneficios": [
+                "Auxilia na obtenção da postura correta;",
+                "Auxilia na circulação sanguínea;",
+                "Auxilia na melhora do sistema respiratório;",
+                "Relaxa a musculatura, deixando-a livre de tensões;",
+                "Auxilia no tratamento e prevenção da insônia e dores de cabeça."
+            ],
+            "especificacoes": [
+                "Altura: 41cm",
+                "Tecido: Linho Chumbo | Matelassê com Viscoelástico",
+                "Magnetos e Infravermelho Longo",
+                "Perfilado terapêutico tratado a base de látex (impermeável)",
+                "Vibromassagem (opcional)",
+                "Cromoterapia (opcional)",
+                "Terapia Quântica (opcional)",
+                "Certificado Médico da SBRTO (Sociedade Brasileira de Reabilitação Traumatológica e ortopédica)",
+                "Certificado Médico da ICV (Instituto da Coluna Vertebral)",
+                "Certificado pelo INMETRO",
+                "Certificado pela ISO 9001",
+                "Durabilidade média de 20 anos",
+                "Garantia de 5 anos",
+                "Não precisa virar o colchão."
+            ],
+            "observacoes": [
+                "Colchão sob medida, passar as medidas para orçamento."
+            ],
+            "imagens": [
+                "diamante.jpg",
+                "diamante2.jpg",
+                "diamante3.jpeg",
+                "diamante4.jpg"
+            ]
+        },
+        {
+            "id": "double-confort",
+            "titulo": "Colchão Double Comfort Eko'7",
+            "descricao": "Com o modelo Double Comfort Eko'7, é  possível escolher a densidade que mais se adequa a sua necessidade. Para você que gosta de um colchão mais firme sem perder o conforto  que seu corpo merece, essa é uma ótima opção para suas noites de sono tranquilo.",
+            "beneficios": [
+                "Auxilia na obtenção da postura correta;",
+                "Auxilia na circulação sanguínea;",
+                "Auxilia na melhora do sistema respiratório;",
+                "Relaxa a musculatura, deixando-a livre de tensões;",
+                "Auxilia no tratamento e prevenção da insônia e dores de cabeça."
+            ],
+            "especificacoes": [
+                "Altura: 30cm",
+                "Tecido: Malha Suede",
+                "Certificado Médico da SBRTO (Sociedade Brasileira de Reabilitação Traumatológica e ortopédica)",
+                "Certificado Médico da ICV (Instituto da Coluna Vertebral)",
+                "Certificado pelo INMETRO",
+                "Certificado pela ISO 9001",
+                "Durabilidade média de 10 anos",
+                "Garantia de 5 anos",
+                "Pode ser utilizado dos dois lados"
+            ],
+            "camadas": [
+                "1) Camada de conforto articular;",
+                "2) Camada de médio impacto;",
+                "3) Camada de alta resistência;",
+                "4) Molas em aço envelopadas;",
+                "5) Camada de alta resistência;",
+                "6) Camada de conforto articular."
+            ],
+            "observacoes": [
+                "Colchão sob medida, passar as medidas para orçamento."
+            ],
+            "imagens": [
+                "double_confort.jpg",
+                "double_confort2.jpg",
+                "double_confort3.jpg",
+                "double_confort4.jpg"
+            ]
+        },
+        {
+            "id": "dreams-pet",
+            "titulo": "Colchão Dreams Pet Eko'7",
+            "descricao": "Desenvolvido para dar conforto e promover a saúde dos animais, sejam eles jovens ou idosos. Com desenho anatômico, o colchão magnético é feito em espuma e oferece uma superfície macia e anatômica que promove a circulação e evita escaras.",
+            "beneficios": [
+                "Indicado para animais de qualquer idade, para aqueles que ficam deitados por períodos prolongados e também para os de porte grande com tendência a desenvolver calos nas patas e cotovelos.",
+                "Possui ação anti-inflamatória, aliviando dores e diminuindo inchaços. Colabora nos tratamentos ósteo-articulares. Melhora o bem-estar do animal e previne desequilíbrios."
+            ],
+            "especificacoes": [
+                "Em seu interior possui dois importantes componentes, dispostos estrategicamente:",
+                "Pastilhas de IVL (infra-vermelho longo) que promovem a circulação e o aumento do bem-estar. O infravermelho longo tem como característica absorver o calor emanado pelo animal e devolvê-lo em formato de suaves ondas de calor similares às ondas benéficas emitidas pelo sol (ondas infravermelhas). Possui ação anti-inflamatória, alivia as dores, diminui os inchaços, melhora os tratamentos ósteo-articulares.",
+                "Magnetos: imãs que promovem a circulação local, diminuem as inflamações e as dores."
+            ],
+            "medidas": [
+                "60 x 40 x 10cm"
+            ],
+            "imagens": [
+                "dreams_pet.jpeg",
+                "dreams_pet2.jpg",
+                "dreams_pet3.jpeg",
+                "dreams_pet4.jpeg",
+                "dreams_pet5.jpeg",
+                "dreams_pet6.jpeg",
+                "dreams_pet7.jpeg"
+            ]
+        },
+        {
+            "id": "articulado-tradicional",
+            "titulo": "Colchão Articulado Tradicional Eko'7",
+            "descricao": "O Colchão Articulado Tradicional c/ Box tem tecnologia europeia que supera as expectativas em relação a conforto e praticidade. Fabricado em MDF com estrutura mecânica para suspensão. O máximo em requinte, conforto e saúde. Com sistemas de articulação e controles independentes, de fácil utilização, que permitem a variação de inclinação para troncos e pernas.",
+            "beneficios": [
+                "Agrega requinte e conforto ao ler e assistir televisão, sem tensionar músculos e cervical;",
+                "Permite várias posições de inclinação para troncos e pernas;",
+                "Apresenta espaço para acomodar objetos (baú);",
+                "Auxilia na prevenção e tratamento de hérnia de hiato, refluxo, apneia do sono e circulação das pernas.",
+                "Possui articulações individuais;"
+            ],
+            "especificacoes": [
+                "Altura final: 70cm",
+                "12 pés em alumínio cromado de 12cm",
+                "Área útil do baú na dimensão de 1,60 x 2,00m: 1,98 x 0,78x 0,26m por módulo",
+                "Motor bivolt",
+                "Tecido: Veludo Italiano e Suede",
+                "Box em MDF com acabamento em melamina;",
+                "Sistema de articulações e controles independentes."
+            ],
+            "observacoes": [
+                "Disponível somente na versão Série Ouro.",
+                "O box é feito sob medida, favor passar os tamanhos para orçamento."
+            ],
+            "imagens": [
+                "articulado_tradicional.jpg",
+                "articulado_tradicional2.jpg",
+                "articulado_tradicional3.jpg",
+                "articulado_tradicional4.jpg",
+                "articulado_tradicional5.jpg"
+            ]
+        },
+        {
+            "id": "serie-ouro",
+            "titulo": "Colchão Série Ouro Eko'7",
+            "descricao": "O Colchão Série Ouro tem tecnologia desenvolvida para você que busca saúde com um excelentíssimo conforto e sofisticação. Fabricado com espuma HR, tecnologia europeia, revestido com veludo Italiano e tecido suede. Desenvolvido em camadas justapostas com sistema de densidade progressiva, adaptável, à estrutura e peso. Produto de ponta, que supera todas as expectativas em relação a conforto e ortopedia.",
+            "beneficios": [
+                "Auxilia na obtenção da postura correta;",
+                "Auxilia na circulação sanguínea;",
+                "Auxilia na melhora do sistema respiratório;",
+                "Relaxa a musculatura, deixando-a livre de tensões;",
+                "Auxilia no tratamento e prevenção da insônia e dores de cabeça."
+            ],
+            "especificacoes": [
+                "Altura: 32cm",
+                "Tecido: Veludo Italiano e Suede",
+                "Disponível na versão antirrefluxo com cabeceira de 36cm e peseira de 26 cm.",
+                "Magnetos e Infravermelho Longo",
+                "Perfilado terapêutico tratado a base de látex (impermeável)",
+                "Vibromassagem (opcional)",
+                "Cromoterapia (opcional)",
+                "Terapia Quântica (opcional)",
+                "Certificado Médico da SBRTO (Sociedade Brasileira de Reabilitação Traumatológica e ortopédica)",
+                "Certificado Médico da ICV (Instituto da Coluna Vertebral)",
+                "Certificado pelo INMETRO",
+                "Certificado pela ISO 9001",
+                "Durabilidade média de 20 anos",
+                "Garantia de 5 anos",
+                "Não precisa virar o colchão."
+            ],
+            "camadas": [
+                "1) Perfilado tratado;",
+                "2) Magnetos e Infravermelho Longo inseridos na superfície do perfilado;",
+                "3) Camada de alta resiliência (HR);",
+                "4) Camada de conforto articular;",
+                "5) Camada de médio impacto;",
+                "6) Caixa ortopédica de alta resistência;",
+                "7) Camada niveladora."
+            ],
+            "observacoes": [
+                "Colchão sob medida, passar as medidas para orçamento."
+            ],
+            "imagens": [
+                "serie_ouro.jpg",
+                "serie_ouro2.jpg",
+                "serie_ouro3.jpg",
+                "serie_ouro4.jpg"
+            ]
+        },
+        {
+            "id": "news",
+            "titulo": "Colchão News Eko'7",
+            "descricao": "Sua “nova” experiência com um colchão inicia no toque, no aconchego e na maciez  proporcionados pela malha belga, aliado à estrutura ergonomicamente correta e pensada para você que busca além dos benefícios de um colchão de qualidade, uma nova e aconchegante experiência de sono. Apaixone-se pelo News Eko'7!",
+            "beneficios": [
+                "Auxilia na obtenção da postura correta;",
+                "Auxilia na circulação sanguínea;",
+                "Auxilia na melhora do sistema respiratório;",
+                "Relaxa a musculatura, deixando-a livre de tensões;",
+                "Auxilia no tratamento e prevenção da insônia e dores de cabeça."
+            ],
+            "especificacoes": [
+                "Altura: 26 cm",
+                "Tecido: Suede e Malha Belga",
+                "Disponível na versão antirrefluxo com cabeceira de 31cm e peseira de 21cm.",
+                "Vibromassagem (opcional)",
+                "Cromoterapia (opcional)",
+                "Terapia Quântica (opcional)",
+                "Certificado Médico da SBRTO (Sociedade Brasileira de Reabilitação Traumatológica e ortopédica)",
+                "Certificado Médico da ICV (Instituto da Coluna Vertebral)",
+                "Certificado pelo INMETRO",
+                "Certificado pela ISO 9001",
+                "Durabilidade média de 15 anos",
+                "Garantia de 5 anos",
+                "Não precisa virar o colchão."
+            ],
+            "camadas": [
+                "1) Perfilado tratado;",
+                "2) Magnetos e Infravermelho Longo inseridos na superfície do perfilado;",
+                "3) Camada de alta resiliência (HR);",
+                "4) Camada soft de conforto articular;",
+                "5) Caixa ortopédica de alta resistência;",
+                "6) Camada niveladora."
+            ],
+            "observacoes": [
+                "Colchão sob medida, passar as medidas para orçamento."
+            ],
+            "imagens": [
+                "news.jpg",
+                "news2.jpg",
+                "news3.jpg",
+                "news4.jpg"
+            ]
+        },{
+            "id": "soft-news",
+            "titulo": "Colchão Soft News Eko'7",
+            "descricao": "O modelo Soft News foi pensado para você que busca um colchão “clean” e elegante. O verdadeiro equilíbrio entre beleza, leveza e naturalidade, sem perder os benefícios de ergonomia e ortopedia que só um colchão Eko'7 pode oferecer para a noite dos seus sonhos.",
+            "beneficios": [
+                "Auxilia na obtenção da postura correta;",
+                "Auxilia na circulação sanguínea;",
+                "Auxilia na melhora do sistema respiratório;",
+                "Relaxa a musculatura, deixando-a livre de tensões;",
+                "Auxilia no tratamento e prevenção da insônia e dores de cabeça."
+            ],
+            "especificacoes": [
+                "Altura: 23cm",
+                "Tecido: Viscose de bambu",
+                "Disponível na versão antirrefluxo com cabeceira de 27cm e peseira de 17 cm",
+                "Magnetos e Infravermelho Longo",
+                "Perfilado terapêutico tratado a base de látex (impermeável)",
+                "Vibromassagem (opcional)",
+                "Cromoterapia (opcional)",
+                "Terapia Quântica (opcional)",
+                "Certificado Médico da SBRTO (Sociedade Brasileira de Reabilitação Traumatológica e ortopédica)",
+                "Certificado Médico da ICV (Instituto da Coluna Vertebral)",
+                "Certificado pelo INMETRO",
+                "Certificado pela ISO 9001",
+                "Durabilidade média de 15 anos",
+                "Garantia de 5 anos",
+                "Não precisa virar o colchão."
+            ],
+            "camadas": [
+                "1) Perfilado tratado;",
+                "2) Magnetos e Infravermelho Longo inseridos na superfície do perfilado;",
+                "3) Camada de alta resiliência (HR);",
+                "4) Camada soft de conforto articular;",
+                "5) Caixa ortopédica de alta resistência;",
+                "6) Camada niveladora."
+            ],
+            "observacoes": [
+                "Colchão sob medida, passar as medidas para orçamento."
+            ],
+            "imagens": [
+                "soft_news.jpg",
+                "soft_news2.jpg",
+                "soft_news3.jpg",
+                "soft_news4.jpg"
+            ]
+        },{
+            "id": "g7-plus",
+            "titulo": "Colchão G7 Plus",
+            "descricao": "Um produto revolucionário no segmento, que veio para conquistar seu espaço, surpreender com sua tecnologia e agregar valores. Um novo conceito para um novo futuro.",
+            "beneficios": [
+                "Auxilia na obtenção da postura correta;",
+                "Auxilia na circulação sanguínea;",
+                "Auxilia na melhora do sistema respiratório;",
+                "Relaxa a musculatura, deixando-a livre de tensões;",
+                "Auxilia no tratamento e prevenção da insônia e dores de cabeça."
+            ],
+            "camadas": [
+                "1) Perfilado tratado;",
+                "2) Magnetos e Infravermelho Longo inseridos na superfície do perfilado;",
+                "3) Camada de alta resiliência (HR);",
+                "4) Camada soft de conforto articular;",
+                "5) Caixa ortopédica de alta resistência;",
+                "6) Camada niveladora."
+            ],
+            "especificacoes": [
+                "Altura: 23cm",
+                "Tecido: Jacquard duplo",
+                "Magnetos e Infravermelho Longo",
+                "Perfilado terapêutico tratado a base de látex (impermeável)",
+                "Vibromassagem (opcional)",
+                "Cromoterapia (opcional)",
+                "Terapia Quântica (opcional)",
+                "Disponível na versão antirefluxo, com cabeceira de 27cm e peseira de 17cm",
+                "Certificado Médico da SBRTO (Sociedade Brasileira de Reabilitação Traumatológica e ortopédica)",
+                "Certificado Médico da ICV (Instituto da Coluna Vertebral)",
+                "Certificado pelo INMETRO",
+                "Certificado pela ISO 9001",
+                "Durabilidade média de 15 anos",
+                "Garantia de 5 anos",
+                "Não precisa virar o colchão."
+            ],
+            "observacoes": [
+                "Colchão sob medida, passar as medidas para orçamento.​"
+            ],
+            "imagens": [
+                "g7_plus.jpg",
+                "g7_plus2.jpg"
+            ]
+        }
+        ,{
+            "id": "g7-standart",
+            "titulo": "Colchão G7 Standart",
+            "descricao": "Fabricado com tecnologia de ponta, com espuma soft e em tecido Jacquard. Desenvolvido em camadas justapostas e com sistema de densidade progressiva e adaptável á toda estrutura e peso. A Ergonomia e a estrutura aprimorada mantém o corpo na posição ortopédica correta, proporcionando um verdadeiro bem-estar.",
+            "beneficios": [
+                "Auxilia na obtenção da postura correta;",
+                "Auxilia na circulação sanguínea;",
+                "Auxilia na melhora do sistema respiratório;",
+                "Relaxa a musculatura, deixando-a livre de tensões;",
+                "Auxilia no tratamento e prevenção da insônia e dores de cabeça."
+            ],
+            "camadas": [
+                "1) Perfilado tratado;",
+                "2) Magnetos e Infravermelho Longo inseridos na superfície do perfilado;",
+                "3) Camada de alta resiliência (HR);",
+                "4) Camada soft de conforto articular;",
+                "5) Caixa ortopédica de alta resistência;",
+                "6) Camada niveladora."
+            ],
+            "especificacoes": [
+                "Altura: 18cm",
+                "Tecido: Jacquard",
+                "Vibromassagem (opcional)",
+                "Cromoterapia (opcional)",
+                "Terapia Quântica (opcional)",
+                "Certificado Médico da SBRTO (Sociedade Brasileira de Reabilitação Traumatológica e ortopédica)",
+                "Certificado Médico da ICV (Instituto da Coluna Vertebral)",
+                "Certificado pelo INMETRO",
+                "Certificado pela ISO 9001",
+                "Durabilidade média de 10 anos",
+                "Garantia de 5 anos",
+                "Não precisa virar o colchão."
+            ],
+            "observacoes": [
+                "Colchão sob medida, passar as medidas para orçamento."
+            ],
+            "imagens": [
+                "g7_standart.jpg"
+            ]
+        }
+        
+    ]
+}
